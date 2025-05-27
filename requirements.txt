@@ -1,0 +1,9 @@
+streamlit
+grpcio
+openai
+langchain
+llama-cpp-python
+transformers
+torch
+numpy
+comfyui
